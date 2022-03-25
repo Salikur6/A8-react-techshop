@@ -5,9 +5,11 @@ import LaptopCards from './components/LaptopCards/LaptopCards';
 
 function App() {
   return (
-    <div className='body container'>
-     <Header></Header>
-     <LaptopCards></LaptopCards>
+    <div className='body'>
+      <div className='container'>
+        <Header></Header>
+        <LaptopCards></LaptopCards>
+      </div>
     </div>
   );
 }

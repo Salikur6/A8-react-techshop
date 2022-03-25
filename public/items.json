@@ -1,68 +1,68 @@
 [
     {
       "id": "1",
-      "price": "$2,171.32",
+      "price": "৳ 56,000",
       "img": "https://img.freepik.com/free-psd/realistic-laptop-screen-mockup_173626-165.jpg?w=996",
-      "name": "Laurel Clay"
+      "name": "Acer Aspire 3 A315 Core i7"
     },
     {
       "id": "2",
-      "price": "$1,968.45",
+      "price": "৳ 60,500",
       "img": "https://img.freepik.com/free-psd/minimal-desktop-workspace-mock-up-design_23-2149012109.jpg?w=996&t=st=1648234441~exp=1648235041~hmac=ad437cd12013a45d90088ff4c3a42dca142f733595adb77e38e05c51cfa2e96b",
-      "name": "Goodwin Lee"
+      "name": "LENOVO IdeaPad Slim 3i "
     },
     {
       "id": "3",
-      "price": "$1,162.44",
+      "price": "৳ 114,900",
       "img": "https://img.freepik.com/free-psd/digital-device-screen-mockup-vector-with-laptop-smartphone-with-gradient-wallpapers_53876-129214.jpg?w=996&t=st=1648234375~exp=1648234975~hmac=ac463905a1a625f2928c8bc72e3c9e4ed6fdef8c45d521fe4fc43dfef62d4fb6",
-      "name": "Maricela Bradford"
+      "name": "Microsoft Surface Laptop 3"
     },
     {
       "id": "4",
-      "price": "$2,624.43",
+      "price": "৳ 122,000",
       "img": "https://img.freepik.com/free-psd/full-screen-laptop-mockup-design_47987-1810.jpg?w=996&t=st=1648234450~exp=1648235050~hmac=3681c3e1095cccb80f59d2c9bdc40d47c3a84cbe0b548160fc8dabdc994f0044",
-      "name": "Reynolds Bush"
+      "name": "LENOVO VivoBook 14 "
     },
     {
       "id": "5",
-      "price": "$3,518.06",
+      "price": "৳ 142,000",
       "img": "https://img.freepik.com/free-psd/technology-digital-assistant-mockup_23-2149140930.jpg?w=996&t=st=1648234429~exp=1648235029~hmac=e068343b0987ac06ea95bcefd9c7e690b5074ff8f13bdc4ecc4c01fa8a7eefee",
-      "name": "Horton Pena"
+      "name": "ASUS Zenbook Duo 14"
     },
     {
       "id": "6",
-      "price": "$2,817.50",
+      "price": "৳ 65,350",
       "img": "https://static-01.daraz.com.bd/p/8376b882d9e3fd78ef243eb76dc11bcb.jpg",
       "name": "Asus VivoBook Flip 5"
     },
     {
       "id": "7",
-      "price": "$2,817.50",
+      "price": "৳ 62,960",
       "img": "https://static-01.daraz.com.bd/p/8e2d6ce98e2c6c7224d5ff9dca4134ed.jpg",
-      "name": "ASUS ZenBook 14"
+      "name": "ASUS ZenBook 14 Core i7"
     },
     {
       "id": "8",
-      "price": "$2,817.50",
+      "price": "৳ 145,900",
       "img": "https://static-01.daraz.com.bd/p/04e45618cd978230e520904398c7e2c5.png",
-      "name": "Asus ExpertBook BR1100FK"
+      "name": "Microsoft Surface Pro 5 Core i7"
     },
     {
       "id": "9",
-      "price": "$2,817.50",
+      "price": "৳ 107,500",
       "img": "https://img.freepik.com/free-photo/laptop-computer-wooden-bar-balcony-apartment_39688-6197.jpg?w=996",
-      "name": "Rojas Boyd"
+      "name": "ALenovo Yoga 6 13ALC6"
     },
     {
       "id": "10",
-      "price": "$2,817.50",
+      "price": "৳ 106,500",
       "img": "https://img.freepik.com/free-photo/modern-workplace-with-laptop-computer-coffee-cup-office-supplies_67155-3379.jpg?w=996",
-      "name": "Rojas Boyd"
+      "name": "Asus Zenbook Flip 13 Core i7"
     },
     {
       "id": "11",
-      "price": "$2,847.28",
+      "price": "৳ 139,900",
       "img": "https://img.freepik.com/free-psd/laptop-black-screen-mockup-digital-device_53876-98738.jpg?w=996",
-      "name": "Lucinda England"
+      "name": "Microsoft Surface Laptop 3 -13.5"
     }
   ]

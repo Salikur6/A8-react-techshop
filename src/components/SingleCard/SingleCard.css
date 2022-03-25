@@ -1,0 +1,25 @@
+.single-card {
+    border: 1px solid #95A0A7;
+    box-sizing: border-box;
+    border-radius: 8px 8px 8px 8px;
+    height: 420px;
+    position: relative;
+}
+
+.single-card p {
+    margin-bottom: 50px;
+}
+
+.single-card h4 {
+    margin: 10px 0px;
+}
+
+.cart-btn {
+    border: 1px solid #95A0A7;
+    border-radius: 8px 8px 8px 8px;
+    background-color: #CECCF0;
+    padding: 8px 15px;
+    position: absolute;
+    bottom: 10px;
+    left: 20%;
+}

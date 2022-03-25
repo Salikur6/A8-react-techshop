@@ -13,14 +13,14 @@ const LaptopCards = () => {
     return (
         <div className='shop-container row'>
             <div className="cards-container col-12 col-lg-9 col-md-8">
-                <div className='row'>
+                <div className='row gy-3'>
                 {
                 cards.map(card => <SingleCard key={card.id} card={card}></SingleCard>)
             }
                 </div>
             </div>
-            <div className="cart-container col-12 col-lg-3 col-md-4">
-                <h2>Selected Items</h2>
+            <div className="cart-container col-12 col-lg-3 col-md-4 bg-info">
+                <h2 className='fw-bold'>Selected Items</h2>
             </div>
         </div>
     );
