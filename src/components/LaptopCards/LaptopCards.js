@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import SingleCard from '../SingleCard/SingleCard';
+import './LaptopCard.css'
 
 const LaptopCards = () => {
     const [cards, setCards] = useState([]);
@@ -20,7 +21,9 @@ const LaptopCards = () => {
                 </div>
             </div>
             <div className="cart-container col-12 col-lg-3 col-md-4 bg-info">
-                <h2 className='fw-bold'>Selected Items</h2>
+                <div className='cart-info'>
+                    <h2 className='fw-bold'>Selected Items</h2>
+                </div>
             </div>
         </div>
     );
