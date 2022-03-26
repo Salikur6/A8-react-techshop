@@ -3,7 +3,8 @@ import React from 'react';
 import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 import './SingleCard.css'
 
-const SingleCard = ({card}) => {
+const SingleCard = (props) => {
+const {card, cartHandler} = props;
 
     const {img, name, price} = card;
 
@@ -13,7 +14,7 @@ const SingleCard = ({card}) => {
                 <img className='w-100' height='196px' src={img} alt="" />
                 <h4 className='fw-bold '>{name}</h4>
                 <p className='fw-bold'>Price: {price}</p>
-                <button className='cart-btn fw-bold text-primary'>ADD TO CART<FontAwesomeIcon className='text-secondary ps-2' icon={faShoppingCart}></FontAwesomeIcon></button>
+                <button onClick={()=>cartHandler(card)} className='cart-btn fw-bold text-primary'>ADD TO CART<FontAwesomeIcon className='text-secondary ps-2' icon={faShoppingCart}></FontAwesomeIcon></button>
            </div>
            
           
