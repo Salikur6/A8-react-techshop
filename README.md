@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
 
+## Project Name Tach Shop
 
-
-## Project name and live website link [Tach Shop](https://laptop-tach.netlify.app/).
+## Live website link [Tach Shop](https://laptop-tach.netlify.app/).
